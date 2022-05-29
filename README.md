@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma Detection Assignment
 > In this assignment, I have built multiclass classification model using a custom convolutional neural network in TensorFlow.
 > A CNN based model which can accurately detect melanoma.
 
