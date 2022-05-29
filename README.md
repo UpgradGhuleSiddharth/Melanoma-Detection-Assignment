@@ -7,7 +7,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -18,18 +17,20 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Image augmentation got rid of overfitting
+- Rectifying the class imbalance got rid of underfitting
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Tensorflow - version 2.8.0
+- Numpy - version 1.19.5
+- Pandas - version 1.1.5
+- Matplotlib - version 3.2.2
+- Scikit-learn - version 1.0.2
+- Augmentor - version 0.2.10
+- PIL - version 7.1.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
